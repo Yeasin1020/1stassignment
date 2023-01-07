@@ -142,7 +142,7 @@
 .Extra-section{
     display: flex;
     justify-content: space-around;
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
